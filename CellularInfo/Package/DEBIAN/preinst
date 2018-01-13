@@ -1,0 +1,5 @@
+#!/bin/sh
+
+mkdir -p /Applications/CellularInfo.app/PlugIns/CellularInfoWidget.appex/MainInterface.storyboardc
+
+exit 0

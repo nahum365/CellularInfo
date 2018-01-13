@@ -1,0 +1,17 @@
+Package: com.nget.CellularInfo
+Name: CellularInfo
+Version: 1.0-2
+Description: None
+Section: System
+Depends: firmware (>= 8.0)
+Conflicts: None
+Replaces: None
+Priority: optional
+Architecture: iphoneos-arm
+Author: Nahum365
+dev: None
+Homepage: None
+Depiction: None
+Maintainer: None
+Icon: None
+
